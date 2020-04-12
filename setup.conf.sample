@@ -1,0 +1,3 @@
+[server]
+# The verification string that Facebook sends the app with webhooks
+verify=long string of random characters
