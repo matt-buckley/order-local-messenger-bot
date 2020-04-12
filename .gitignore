@@ -13,3 +13,6 @@ venv.bak/
 
 # IDE stuff
 .idea/
+
+# Passwords/SSH keys etc.
+setup.conf
